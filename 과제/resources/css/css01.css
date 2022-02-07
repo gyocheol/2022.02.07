@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    margin: 20px;
+}
+#move{
+    height: 290px;
+    margin: 0px;
+    background-color: #83bfff;
+}
+
+#body{
+    height: 1500px;
+}
+
+#left{
+    width: 50%;
+    height: 90%;
+    float: left;
+    margin-left: 5%;
+}
+#right{
+    width: 33%;
+    height: 20%;
+    float: right;
+    margin-right: 3%;
+}
+#header{
+    margin: 50px 60px 30px;
+}
+ul{
+    list-style: none;
+    font-weight: 700;
+}
+#top-button{
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-align: left;
+}
+#cen{
+    text-align: center;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    margin: 0px 400px 24px;
+}
+#menu{
+    border: none;
+    text-align: center;
+}
+#h1{
+    width: 20%;
+    height: 90%;
+    float: left;
+}
+#lm{
+    position: absolute; top: 50px; left: 350px;
+}
+#cm{
+    position: absolute; top: 50px; left: 550px;
+}
+#rm{
+    position: absolute; top: 50px; left: 800px;
+}
+#search{
+    position: absolute; top: 26px; right: 200px;
+}
+.title{
+    color: #005282;
+    text-decoration: none;
+    list-style: none;
+}
+.post-meta{
+    font-style: italic;
+}
+.mm{
+    background: none;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 0.6em;
+}
